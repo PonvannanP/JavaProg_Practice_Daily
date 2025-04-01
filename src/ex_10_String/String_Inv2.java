@@ -8,8 +8,8 @@ public class String_Inv2 {
         // Totally 1 string is present String constant Pool which is "Cric" and
         // s1,s4,s10 will points to the same String values which is "Cric"
 
-        String s1=new String("Cric");
         String s2=new String("Cric");
+        String s6=new String("Cric");
         String s3=new String("Cric");
         // Now three String is presented because new keyword will create a seperate seperate
         // memory in Heap object area
