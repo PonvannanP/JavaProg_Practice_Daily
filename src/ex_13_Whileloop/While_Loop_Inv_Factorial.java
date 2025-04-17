@@ -1,4 +1,4 @@
-package Whileloop;
+package ex_13_Whileloop;
 
 import java.util.Scanner;
 
